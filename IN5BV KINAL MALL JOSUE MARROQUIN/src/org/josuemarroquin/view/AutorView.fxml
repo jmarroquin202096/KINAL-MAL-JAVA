@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane disable="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mouseTransparent="true" prefHeight="400.0" prefWidth="790.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="323.0" fitWidth="298.0" layoutX="518.0" layoutY="41.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../resource/images/-Imagen%20Kinal%20Perfil2.1.png" />
+         </image></ImageView>
+      <Label alignment="CENTER" cache="true" contentDisplay="CENTER" disable="true" layoutX="34.0" layoutY="46.0" mnemonicParsing="true" prefHeight="86.0" prefWidth="462.0" text="Acerca del Autor:" wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="36.0" />
+         </font>
+      </Label>
+      <Label cache="true" contentDisplay="CENTER" disable="true" layoutX="9.0" layoutY="141.0" mnemonicParsing="true" prefHeight="41.0" prefWidth="109.0" text="Nombre:" wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+      <Label cache="true" contentDisplay="CENTER" disable="true" layoutX="130.0" layoutY="135.0" mnemonicParsing="true" prefHeight="51.0" prefWidth="378.0" text="Josué Daniel Marroquín Hernández." wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+      <Label cache="true" contentDisplay="CENTER" disable="true" layoutX="7.0" layoutY="205.0" mnemonicParsing="true" prefHeight="41.0" prefWidth="109.0" text="Grado:" wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+      <Label cache="true" disable="true" layoutX="131.0" layoutY="202.0" mnemonicParsing="true" prefHeight="51.0" prefWidth="369.0" text="Quinto Informatica." wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+      <Label cache="true" contentDisplay="CENTER" disable="true" layoutX="6.0" layoutY="257.0" mnemonicParsing="true" prefHeight="41.0" prefWidth="109.0" text="Seccion:" wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+      <Label cache="true" disable="true" layoutX="133.0" layoutY="255.0" mnemonicParsing="true" prefHeight="51.0" prefWidth="55.0" text="B." wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+      <Label cache="true" contentDisplay="CENTER" disable="true" layoutX="2.0" layoutY="308.0" mnemonicParsing="true" prefHeight="41.0" prefWidth="109.0" text="Jornada:" wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+      <Label cache="true" disable="true" layoutX="129.0" layoutY="300.0" mnemonicParsing="true" prefHeight="51.0" prefWidth="179.0" text="Vespertina." wrapText="true">
+         <font>
+            <Font name="Arial Narrow" size="28.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
